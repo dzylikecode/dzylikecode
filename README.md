@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<h2><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">Blog<a href="https://github.com/dzylikecode/dzylikecode.github.io">https://github.com/dzylikecode/dzylikecode.github.io</a></h2>
+<h2><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">Blog: <a href="https://github.com/dzylikecode/dzylikecode.github.io">https://github.com/dzylikecode/dzylikecode.github.io</a></h2>
 
 <br>
 <br>
