@@ -2,13 +2,19 @@
 <a href="mailto:MathBeWithCode@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-MathBeWithCode@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<table width="100%"> 
-  <tr>
-    <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api?username=dzylikecode&show_icons=true&theme=algolia">
-    </td>
-    <td width="30%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dzylikecode&layout=compact&langs_count=8&theme=algolia">
-    </td>
-  </tr>
-</table>
+- MCU
+  - [8051](https://github.com/dzylikecode/MCU-8051)
+  - [stm32](https://github.com/dzylikecode/MCU-STM32)
+- code language
+  - Haskell
+  - C/C++
+  - Javascript/Typescript
+  - Python
+  - Lua
+- fishing
+  - math
+  - game
+  - ...
+- South China University of Technology
+  - some courses should be here
+- Fudan University
