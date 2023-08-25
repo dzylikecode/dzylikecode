@@ -18,3 +18,5 @@
 - South China University of Technology
   - some courses should be here
 - Fudan University
+- toy
+  - [snake-AI](https://github.com/dzylikecode/snake-AI)
