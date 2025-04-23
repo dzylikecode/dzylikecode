@@ -5,6 +5,7 @@
 - MCU
   - [8051](https://github.com/dzylikecode/MCU-8051)
   - [stm32](https://github.com/dzylikecode/MCU-STM32)
+  - [joint-motor](https://github.com/dzylikecode/dog-motor-xiaomi)
 - code language
   - Haskell
   - C/C++
